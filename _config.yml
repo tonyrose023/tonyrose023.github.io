@@ -1,2 +1,3 @@
 name: CBDC and the Digitization of Money
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
